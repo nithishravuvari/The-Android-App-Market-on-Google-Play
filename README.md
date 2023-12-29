@@ -8,3 +8,16 @@ The dataset comprises two main files:
 
 1. googleplaystore.csv: This file contains exhaustive details about applications available on Google Play. It includes 13 features that characterize each app.
 2. googleplaystore_user_reviews.csv: With a compilation of 100 reviews for each app, this file presents user sentiments in a pre-processed form. These sentiments are classified into three categories: Positive, Negative, or Neutral, along with additional attributes such as Sentiment Polarity and Sentiment Subjectivity.
+
+
+This project involves the following tasks : 
+
+- Google Play Store apps and reviews
+- Data cleaning
+- Exploring app categories
+- Distribution of app ratings
+- Size and price of an app
+- Relation between app category and app price
+- Filter out junk apps
+- Popularity of paid apps vs free apps
+- Sentiment analysis of user reviews
